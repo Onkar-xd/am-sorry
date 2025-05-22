@@ -208,7 +208,7 @@ span.green {
 
 .search__form::before, .terminal__line, .search__input {
     font-family: 'VT323', monospace;
-    font-size: 1.25em;
+    font-size: 5.25em;
 }
 
 .search__input::-webkit-input-placeholder {
