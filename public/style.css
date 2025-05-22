@@ -208,7 +208,7 @@ span.green {
 
 .search__form::before, .terminal__line, .search__input {
     font-family: 'VT323', monospace;
-    font-size: 5.25em;
+    font-size: 1.25em;
 }
 
 .search__input::-webkit-input-placeholder {
@@ -271,47 +271,47 @@ span.green {
 }
 
 .js .search--open .terminal__line:first-child {
-    width: 20ch;
+    width: 200ch;
 }
 
 .js .search--open .terminal__line:nth-child(2), .js .search--open .terminal__line:nth-child(3) {
-    width: 27ch;
+    width: 270ch;
 }
 
 .js .search--open .terminal__line:nth-child(4) {
-    width: 28ch;
+    width: 280ch;
 }
 
 .js .search--open .terminal__line:nth-child(5) {
-    width: 7ch;
+    width: 70ch;
 }
 
 .js .search--open .terminal__line:nth-child(6) {
-    width: 16ch;
+    width: 160ch;
 }
 
 .js .search--open .terminal__line:nth-child(7) {
-    width: 14ch;
+    width: 140ch;
 }
 
 .js .search--open .terminal__line:nth-child(8) {
-    width: 19ch;
+    width: 190ch;
 }
 
 .js .search--open .terminal__line:nth-child(9) {
-    width: 10ch;
+    width: 100ch;
 }
 
 .js .search--open .terminal__line:nth-child(10) {
-    width: 13ch;
+    width: 130ch;
 }
 
 .js .search--open .terminal__line:nth-child(11) {
-    width: 12ch;
+    width: 120ch;
 }
 
 .js .search--open .terminal__line:nth-child(12) {
-    width: 45ch;
+    width: 450ch;
 }
 
 .js .search--open .terminal__line:nth-child(13) {
