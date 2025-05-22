@@ -13,7 +13,7 @@ function initHeader() {
     width = window.innerWidth;
     height = window.innerHeight;
     target = {
-        x: width / 2,
+        x: width / 4,
         y: height / 2
     };
 
@@ -27,9 +27,9 @@ function initHeader() {
 
     // create points
     points = [];
-    for (var x = 0; x < width; x = x + width / 20) {
+    for (var x = 0; x < width; x = x + width / 40) {
         for (var y = 0; y < height; y = y + height / 20) {
-            var px = x + Math.random() * width / 100;
+            var px = x + Math.random() * width / 400;
             var py = y + Math.random() * height / 100;
             var p = {
                 x: px,
@@ -204,7 +204,7 @@ init();
                     <p>
                         I am just a nerd in the end so  <br/>
                         I so fucking <span class="green">sorry</span> about my behaviour about what i did (╥ᆺ╥)
-                        <span class="green">baka</span>.... <br/>
+                        <span class="green">I MISSED YOU SO MUCH</span>.... <br/>
                         I want u more than anyone <span class="green">
                        
                         Am really really REALLY REALLY SORRY<br/>
