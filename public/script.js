@@ -200,16 +200,16 @@ init();
         if (src === 'message') {
             homeDiv.innerHTML = `
                 <div class="home_container">
-                    <h2>Hello, There :|</h2>
+                    <h2>Hai Hai :D</h2>
                     <p>
-                        I'm not good with my Words, so I made this code... <br/>
-                        I really <span class="green">sorry</span> about my behaviour 'cause I'm  mad
+                        I am just a nerd in the end so  <br/>
+                        I so fucking <span class="green">sorry</span> about my behaviour about what i did (╥ᆺ╥)
                         <span class="green">baka</span>.... <br/>
-                        I care about U <span class="green">
+                        I want u more than anyone <span class="green">
                        
-                        I really very very sorry pls forgive me mistake<br/>
-                        Anyway, that was my fault <br/>,
-                        I'll hope 4 UR answer :)
+                        Am really really REALLY REALLY SORRY<br/>
+                        I won't ever repeat it again forgivr mr please ╥ ω ╥ <br/>,
+                        i don't want to lose u again ever u mean the world to me
                     </p>
                     <div class="close_home" href="">x</div>
                 </div>
@@ -235,7 +235,7 @@ init();
     navigationLink.click(nav => {
         src = nav.delegateTarget.id
         if ($(this).hasClass('out')) {
-            window.open('http://instagram.com/pedro_caricari');
+            window.open('http://instagram.com/Onkar_xd');
         } else {
             createHome();
         }
@@ -243,12 +243,10 @@ init();
 
     const opts = {
         cari: document.getElementById('cari.gif'),
-        baka: document.getElementById('baka.jpg'),
-        leave: document.getElementById('leave.gif'),
-        sorry: document.getElementById('sorry.gif'),
-        happy: document.getElementById('smile.gif'),
-        repo: document.getElementById('default.jpg'),
-        ivana: document.getElementById('https://iili.io/J1d650b.jpg'),
+        How_Could_I_Ever_Want_U_Gone: document.getElementById('baka.jpg'),
+    I_Missed_You: document.getElementById('leave.gif'),
+        So_sorry: document.getElementById('sorry.gif'),
+        The_world : document.getElementById('https://iili.io/3ZMP1x2.jpg'),
     }
 
     $(search_form).submit(e => {
