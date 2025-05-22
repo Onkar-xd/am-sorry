@@ -205,11 +205,11 @@ init();
                         I am just a nerd in the end so  <br/>
                         I so fucking <span class="green">sorry</span> about my behaviour about what i did (╥ᆺ╥)
                         <span class="green">I MISSED YOU SO MUCH</span>.... <br/>
-                        I want u more than anyone <span class="green">
+                        I want u in my life more than anyone else <span class="green">
                        
                         Am really really REALLY REALLY SORRY<br/>
-                        I won't ever repeat it again forgivr mr please ╥ ω ╥ <br/>,
-                        i don't want to lose u again ever u mean the world to me
+                        I won't ever repeat it again forgivr me please ╥ ω ╥ <br/>,
+                        i don't want to ever lose u again, u mean the world to me
                     </p>
                     <div class="close_home" href="">x</div>
                 </div>
