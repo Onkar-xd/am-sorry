@@ -13,7 +13,7 @@ function initHeader() {
     width = window.innerWidth;
     height = window.innerHeight;
     target = {
-        x: width / 4,
+        x: width / 2,
         y: height / 2
     };
 
@@ -27,9 +27,9 @@ function initHeader() {
 
     // create points
     points = [];
-    for (var x = 0; x < width; x = x + width / 40) {
+    for (var x = 0; x < width; x = x + width / 20) {
         for (var y = 0; y < height; y = y + height / 20) {
-            var px = x + Math.random() * width / 400;
+            var px = x + Math.random() * width / 200;
             var py = y + Math.random() * height / 100;
             var p = {
                 x: px,
